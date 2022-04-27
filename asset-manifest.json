@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/6-seniors-docs/static/css/main.9f5876e3.css",
-    "main.js": "/6-seniors-docs/static/js/main.c58cfb1d.js",
+    "main.js": "/6-seniors-docs/static/js/main.8e37db4e.js",
     "static/media/06.educationalMaterials.md": "/6-seniors-docs/static/media/06.educationalMaterials.0c84c7acc5589680c76f.md",
     "static/media/04.learningGeneral.md": "/6-seniors-docs/static/media/04.learningGeneral.c7df98bdc52840748562.md",
     "static/media/02.studentInvolvement.md": "/6-seniors-docs/static/media/02.studentInvolvement.ea70e8dcf18213dc5b6e.md",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.9f5876e3.css",
-    "static/js/main.c58cfb1d.js"
+    "static/js/main.8e37db4e.js"
   ]
 }
