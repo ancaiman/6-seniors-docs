@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/6-seniors-docs/static/css/main.9f5876e3.css",
+    "main.js": "/6-seniors-docs/static/js/main.c58cfb1d.js",
+    "static/media/06.educationalMaterials.md": "/6-seniors-docs/static/media/06.educationalMaterials.0c84c7acc5589680c76f.md",
+    "static/media/04.learningGeneral.md": "/6-seniors-docs/static/media/04.learningGeneral.c7df98bdc52840748562.md",
+    "static/media/02.studentInvolvement.md": "/6-seniors-docs/static/media/02.studentInvolvement.ea70e8dcf18213dc5b6e.md",
+    "static/media/05.howToStudy.md": "/6-seniors-docs/static/media/05.howToStudy.168eed6865169828c649.md",
+    "static/media/03.terms.md": "/6-seniors-docs/static/media/03.terms.e8e2c491218736248bcb.md",
+    "static/media/07.techsForFirstJob.md": "/6-seniors-docs/static/media/07.techsForFirstJob.f786ae0c43b5fb9b58d8.md",
+    "static/media/07.studentKickSystem.md": "/6-seniors-docs/static/media/07.studentKickSystem.b6a1215531b2add67b90.md",
+    "static/media/05.coopDevelopment.md": "/6-seniors-docs/static/media/05.coopDevelopment.e1523f1535dce0159e85.md",
+    "static/media/02.gitTasks.md": "/6-seniors-docs/static/media/02.gitTasks.a9de4f84be3e6ba4e340.md",
+    "static/media/09.otherMeetings.md": "/6-seniors-docs/static/media/09.otherMeetings.9fb88fdca1f028e16438.md",
+    "static/media/02.softSettings.md": "/6-seniors-docs/static/media/02.softSettings.71ebb0e3130b4e7dbec6.md",
+    "static/media/06.seniorityLevelsTI.md": "/6-seniors-docs/static/media/06.seniorityLevelsTI.d276b621188bf9384cff.md",
+    "static/media/10.polls.md": "/6-seniors-docs/static/media/10.polls.c087e824d85ed27c8afb.md",
+    "static/media/01.README_forStudent.md": "/6-seniors-docs/static/media/01.README_forStudent.5b3f80e139b1352fef54.md",
+    "static/media/04.howFindAJob.md": "/6-seniors-docs/static/media/04.howFindAJob.8bab8e58c650631f0453.md",
+    "static/media/11.jobInterview.md": "/6-seniors-docs/static/media/11.jobInterview.f5f31bfb7831d376b054.md",
+    "static/media/08.meetings.md": "/6-seniors-docs/static/media/08.meetings.30dec022e144fa89bc59.md",
+    "static/media/01.README_forMentor.md": "/6-seniors-docs/static/media/01.README_forMentor.eca2192ab2a29fd28eb6.md",
+    "index.html": "/6-seniors-docs/index.html",
+    "static/media/01.README_tasks.md": "/6-seniors-docs/static/media/01.README_tasks.fb13086095b1dcfe800f.md",
+    "static/media/03.arrayTasks.md": "/6-seniors-docs/static/media/03.arrayTasks.b3beed735b6feeebcd11.md",
+    "static/media/03.version.md": "/6-seniors-docs/static/media/03.version.0d1bf778211399793b15.md"
+  },
+  "entrypoints": [
+    "static/css/main.9f5876e3.css",
+    "static/js/main.c58cfb1d.js"
+  ]
+}
