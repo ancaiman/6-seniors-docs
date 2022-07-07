@@ -18,8 +18,8 @@ import tasksAndInfoCoopDevelopment from '../docs/02.tasksAndInfo/05.coopDevelopm
 import tasksAndInfoSeniorityLevelsTi from '../docs/02.tasksAndInfo/06.seniorityLevelsTI.md';
 import tasksAndInfoTechsForFirstJob from '../docs/02.tasksAndInfo/07.techsForFirstJob.md';
 import forMentorReadmeForMentor from '../docs/03.forMentor/01.README_forMentor.md';
-import forMentorStudentInvolvement from '../docs/03.forMentor/02.studentInvolvement.md';
-import forMentorVersion from '../docs/03.forMentor/03.version.md';
+import forMentorStudentInvolvement from '../docs/03.forMentor/05.studentInvolvement.md';
+import forMentorVersion from '../docs/03.forMentor/06.version.md';
 import etcInfoUsefulImgs from '../docs/04.etcInfo/01.usefulImgs.md';
 import etcInfoCommunicationWithEmployer from '../docs/04.etcInfo/02.communicationWithEmployer.md';
 import etcInfoDevOpsLinux from '../docs/04.etcInfo/03.devOpsLinux.md';
