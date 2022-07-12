@@ -45,7 +45,7 @@ export default [
     folderId: 'folder_01.forStudent_1',
     fileName: '02.softSettings',
     fileUrl: forStudentSoftSettings,
-    title: 'Установка и настройка софта',
+    title: 'Старт обучения',
     nestLevel: 1,
     id: '3',
     type: 'file',
