@@ -1,5 +1,5 @@
 import forStudentReadmeForStudent from '../docs/01.forStudent/01.README_forStudent.md';
-import forStudentSoftSettings from '../docs/01.forStudent/02.softSettings.md';
+import forStudentStartTeaching from '../docs/01.forStudent/02.startTeaching.md';
 import forStudentTerms from '../docs/01.forStudent/03.terms.md';
 import forStudentLearningGeneral from '../docs/01.forStudent/04.learningGeneral.md';
 import forStudentHowToStudy from '../docs/01.forStudent/05.howToStudy.md';
@@ -40,11 +40,11 @@ export default [
     type: 'file',
   },
   {
-    appRoute: '01-for-student/02-soft-settings',
+    appRoute: '01-for-student/02-start-teaching',
     folderName: '01.forStudent',
     folderId: 'folder_01.forStudent_1',
-    fileName: '02.softSettings',
-    fileUrl: forStudentSoftSettings,
+    fileName: '02.startTeaching',
+    fileUrl: forStudentStartTeaching,
     title: 'Старт обучения',
     nestLevel: 1,
     id: '3',
